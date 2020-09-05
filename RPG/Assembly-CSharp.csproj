@@ -57,8 +57,6 @@
   <ItemGroup>
      <Compile Include="Assets\Script\Manager\BoardManager.cs" />
      <Compile Include="Assets\Script\Manager\GameManager.cs" />
-     <Compile Include="Assets\Script\Manager\Rectangle.cs" />
-     <Compile Include="Assets\Script\Manager\TileManager.cs" />
      <Compile Include="Assets\Script\Player\PlayerControl.cs" />
      <Compile Include="Assets\Script\Player\PlayerStatus.cs" />
  <Reference Include="Unity.Timeline.Editor">
